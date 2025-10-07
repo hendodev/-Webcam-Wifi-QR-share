@@ -30,8 +30,8 @@ brew install zbar
 Clone this repo to your computer:
 
 ```bash
-git clone https://github.com/hendodev/Webcam-Wifi-QR-share.git
-cd Webcam-Wifi-QR-share
+git clone https://github.com/hendodev/-Webcam-Wifi-QR-share.git
+cd -Webcam-Wifi-QR-share
 ```
 
 Install the required packages:
